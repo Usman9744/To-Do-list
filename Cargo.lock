@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "my_first_project"
+name = "To-Do-list"
 version = "0.1.0"
