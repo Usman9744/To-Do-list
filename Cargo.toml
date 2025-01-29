@@ -1,0 +1,7 @@
+[package]
+name = "my_first_project"
+version = "0.1.0"
+authors = ["Mohammad Usman <usman2003qa@gmail.com>"]
+edition = "2021"
+
+[dependencies]
